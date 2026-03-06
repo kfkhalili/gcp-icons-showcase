@@ -75,7 +75,7 @@ export default function HomePage() {
       <header className="topbar">
         <div className="topbarInner">
           <div>
-            <div className="title">GCP Icons</div>
+            <div className="title">GCP Icons Showcase</div>
             <div className="subtitle">
               Powered by{" "}
               <a href="https://www.npmjs.com/package/gcp-icons" target="_blank" rel="noreferrer">

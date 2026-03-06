@@ -3,7 +3,7 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: "GCP Icons",
+  title: "GCP Icons Showcase",
   description: "Category-based showcase for the gcp-icons npm package.",
 };
 
