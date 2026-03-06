@@ -1,6 +1,6 @@
 # gcp-icons-showcase
 
-Minimal category-based showcase website for the [`gcp-icons`](https://www.npmjs.com/package/gcp-icons) npm package, inspired by AWS Icons’ “sections + grids” layout.
+Minimal category-based showcase website for the [`gcp-icons`](https://www.npmjs.com/package/gcp-icons) npm package.
 
 ## Local development
 
